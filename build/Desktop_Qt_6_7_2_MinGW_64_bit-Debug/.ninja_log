@@ -1,0 +1,9 @@
+# ninja log v6
+41	975	7437590680000000	prac1_clock_autogen/timestamp	e531cdbad37e21e1
+41	975	7437590680000000	prac1_clock_autogen/mocs_compilation.cpp	e531cdbad37e21e1
+41	975	7437590680000000	D:/programming/Qt/prac1_clock/prac1_clock/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/prac1_clock_autogen/timestamp	e531cdbad37e21e1
+41	975	7437590680000000	D:/programming/Qt/prac1_clock/prac1_clock/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/prac1_clock_autogen/mocs_compilation.cpp	e531cdbad37e21e1
+984	3050	7437590680000000	CMakeFiles/prac1_clock.dir/prac1_clock_autogen/mocs_compilation.cpp.obj	c37c7bdbb1c10ada
+992	3080	7437590680000000	CMakeFiles/prac1_clock.dir/main.cpp.obj	f9b324470fea819d
+1000	3105	7437590680000000	CMakeFiles/prac1_clock.dir/mainwindow.cpp.obj	4d116d2353816901
+3106	4198	7437590700000000	prac1_clock.exe	633186c586558d64

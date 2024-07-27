@@ -14,6 +14,7 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget"/>
+  <widget class="QStatusBar" name="statusbar"/>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>
@@ -23,8 +24,13 @@
      <height>17</height>
     </rect>
    </property>
+   <widget class="QMenu" name="menuclock">
+    <property name="title">
+     <string>clock</string>
+    </property>
+   </widget>
+   <addaction name="menuclock"/>
   </widget>
-  <widget class="QStatusBar" name="statusbar"/>
  </widget>
  <resources/>
  <connections/>
